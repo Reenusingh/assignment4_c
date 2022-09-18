@@ -1,0 +1,130 @@
+//program 1
+
+int main()
+{
+   int i=1;
+   while(i<=5)
+      {
+        printf("\n MysirG");
+        i++;
+      }
+      getch();
+}
+
+
+//program 2
+
+int main()
+{
+   int i=1;
+   while(i<=10)
+      {
+        printf("%d ",i);
+        i++;
+      }
+      getch();
+}
+
+//program 3
+
+int main()
+{
+   int i=1;
+   while(i<=10)
+      {
+        printf("%d ",11-i);
+        i++;
+      }
+      getch();
+}
+ //program 4
+
+int main()
+{
+   int i=1;
+   while(i<=10)
+      {
+        printf("%d ",i*2-1);
+        i++;
+      }
+      getch();
+}
+
+//program 5
+
+int main()
+{
+   int i=1;
+   while(i<=10)
+      {
+        printf("%d ",21-i*2);
+        i++;
+      }
+      getch();
+}
+
+//program 6
+
+int main()
+{
+   int i=1;
+   while(i<=10)
+      {
+        printf("%d ",2*i);
+        i++;
+      }
+      getch();
+}
+
+
+// program 7
+
+int main()
+{
+   int i=1;
+   while(i<=10)
+      {
+        printf("%d ",22-i*2);
+        i++;
+      }
+      getch();
+}
+
+//program 8
+
+int main()
+{
+   int i=1;
+   while(i<=10)
+      {
+        printf("%d ",i*i);
+        i++;
+      }
+      getch();
+}
+
+//program 9
+
+int main()
+{
+   int i=1,x;
+   while(i<=10)
+      { x=pow(i,3);
+        printf("%d ",x);
+        i++;
+      }
+      getch();
+}
+
+//program 10
+
+int main()
+{
+   int i=1,x;
+   while(i<=10)
+      {
+        printf("%d\n",5*i);
+        i++;
+      }
+      getch();
+}
